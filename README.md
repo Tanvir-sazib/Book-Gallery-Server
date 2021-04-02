@@ -19,7 +19,7 @@ admin can `Add` products/book, `Delete` a book and can` update` or `edit` any bo
 
 ### `Dependencies`
 
-For front-end `npm` dependency i have used:
+For back-end `npm` dependency i have used:
 
 Body-parser, express, cors, nodemon, mongodb etc.
 
